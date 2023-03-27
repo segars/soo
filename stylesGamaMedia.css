@@ -1,0 +1,42 @@
+/* graficas de media */
+
+#grafm1{
+    width: 20%;
+    margin: 50%;
+    border-radius: 6px;
+    overflow: hidden;
+    background:white;
+    margin-top: -420px;
+    margin-left: 1490px;
+
+}
+
+#grafm2{
+    width: 20%;
+    margin: 50%;
+    border-radius: 6px;
+    overflow: hidden;
+    background:white;
+    margin-top: -1420px;
+    margin-left: 950px;
+
+}
+
+#grafm3{
+    width: 20%;
+    margin: 50%;
+    border-radius: 6px;
+    overflow: hidden;
+    background:white;
+    margin-top:-1480px;
+    margin-left: 400px;
+
+}
+
+#BtnI{
+    margin-top: -1000px;
+    margin-left: 100px;
+    text-decoration: none;
+    color: white;
+    
+   }

@@ -1,0 +1,161 @@
+
+
+body{
+    background-color: #202324;
+
+}
+
+#icon{
+    width: 9%; 
+    margin-left: -47%;
+    margin-top: 2%;
+    font: 40px;
+   
+   }
+   
+   #tit{
+       margin-left: -140%;
+       font-size: 25px;
+       margin-top: 4%;
+       font-family: "Roboto",Arial,sans-serif;
+   
+   }
+
+
+   #BtnI{
+    margin-top: -1000px;
+    margin-left: 100px;
+    
+   }
+
+   #encabezado{
+    background-color: #202324;
+   }
+#prim{
+    background-color: #202324 ;
+}
+
+#bord{
+    border-left:4px solid gray;
+    height: 1000px;
+    margin-left: 15%;
+}
+
+
+#encabezado20{
+    background-color: #202324   ;
+   }
+
+hr{
+    background-color: white;
+}
+
+p{
+    color: #84939C;
+    font-family: initial;
+    font-size: 20px;
+    margin-top: -52%;
+}
+
+
+#headset{
+    margin-left: 13px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 23px;
+}
+
+#icono-1{
+    color: white;
+    margin-left: 6px;
+    font-size: 20px;
+}
+
+
+
+
+
+.card{
+    width: 39%;
+    margin: 10px;
+    border-radius: 6px;
+    overflow: hidden;
+    background:white;
+    margin-top: -400px;
+    left: 400px;
+    margin-bottom: 40px;
+}
+
+.card-body{
+    margin-top:40%;
+}
+
+
+h3{
+    text-align: center;
+}
+
+.texto{
+    text-align: center;
+}
+
+#card2{
+    width: 20%;
+    margin: 50%;
+    border-radius: 6px;
+    overflow: hidden;
+    background:white;
+    margin-top: -638px;
+    left: 200px;
+    margin-bottom: 40px;
+}
+
+#card3{
+    width: 20%;
+    margin: 50%;
+    border-radius: 6px;
+    overflow: hidden;
+    background:white;
+    margin-top: -600px;
+    margin-left: 1500px;
+    margin-bottom: 40px;
+}
+
+
+
+/* Graficas de baja  */
+
+
+#graf1{
+    width: 20%;
+    margin: 50%;
+    border-radius: 6px;
+    overflow: hidden;
+    background:white;
+    margin-top: -420px;
+    margin-left: 1490px;
+
+}
+
+#graf2{
+    width: 20%;
+    margin: 50%;
+    border-radius: 6px;
+    overflow: hidden;
+    background:white;
+    margin-top: -1330px;
+    margin-left: 950px;
+
+}
+
+#graf3{
+    width: 20%;
+    margin: 50%;
+    border-radius: 6px;
+    overflow: hidden;
+    background:white;
+    margin-top:-1400px;
+    margin-left: 400px;
+    margin-bottom: 1%;
+}
+
+
